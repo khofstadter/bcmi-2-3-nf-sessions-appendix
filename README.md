@@ -1,5 +1,9 @@
 # Supporting Material for Neurofeedback Sessions
 
+Neurofeddback Sessions is project testing BCMI-2 with two participants. 
+
+The commentary of this project is currently submitted as part of my doctoral thesis.
+
 This folder contains: 
 - `\b` (3 NF sessions: filled in questionnaires, notes, plots, consent forms)
 - `\m` (same as `\b`)
