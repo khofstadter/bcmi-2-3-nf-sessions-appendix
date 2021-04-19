@@ -1,0 +1,79 @@
+b3: https://youtu.be/SYupCovHMH4
+// nfth: 1.5uV (adjusted later to this value)
+
+level: 0
+level start: 0
+level length: 141sec
+total above ~threshold: 85sec
+above threshold: 60%
+level: 1
+level start: 144
+level length: 2sec
+total above ~threshold: 2sec
+above threshold: 100%
+level: 2
+level start: 149
+level length: 1sec
+total above ~threshold: 0sec
+above threshold: 0%
+level: 3
+level start: 153
+level length: 4sec
+total above ~threshold: 0sec
+above threshold: 0%
+level: 4
+level start: 160
+level length: 13sec
+total above ~threshold: 0sec
+above threshold: 0%
+level: 5
+level start: 175
+level length: 28sec
+total above ~threshold: 0sec
+above threshold: 0%
+level: 6
+level start: 205
+level length: 63sec
+total above ~threshold: 14sec
+above threshold: 22%
+level: 7
+level start: 268
+level length: 123sec
+total above ~threshold: 36sec
+above threshold: 29%
+level: 8
+level start: 389
+level length: 252sec
+total above ~threshold: 107sec
+above threshold: 42%
+level: 9
+level start: 640
+level length: 185sec
+total above ~threshold: 44sec
+above threshold: 23%
+level: 10
+level start: 825
+level length: 147sec
+total above ~threshold: 69sec
+above threshold: 46%
+level: 11
+level start: 972
+level length: 147sec
+total above ~threshold: 89sec
+above threshold: 60%
+level: 12
+level start: 1117
+level length: 198sec
+total above ~threshold: 129sec
+above threshold: 65%
+level: 13
+level start: 1314
+level length: 197sec
+total above ~threshold: 42sec
+above threshold: 21%
+level: 14
+level start: 1505
+level length: 397sec
+total above ~threshold: 134sec
+above threshold: 33%
+-> a Plotter

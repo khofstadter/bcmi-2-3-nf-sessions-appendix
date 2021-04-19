@@ -1,0 +1,80 @@
+b2: https://youtu.be/w71j3-qlwIU
+// nfth: 2uV
+// for some reason last level (call back) in raw data is missing)
+
+level: 0
+level start: 72
+level length: 1sec
+total above ~threshold: 1sec
+above threshold: 100%
+level: 1
+level start: 72
+level length: 3sec
+total above ~threshold: 3sec
+above threshold: 100%
+level: 2
+level start: 76
+level length: 2sec
+total above ~threshold: 1sec
+above threshold: 50%
+level: 3
+level start: 81
+level length: 7sec
+total above ~threshold: 1sec
+above threshold: 14%
+level: 4
+level start: 91
+level length: 12sec
+total above ~threshold: 5sec
+above threshold: 41%
+level: 5
+level start: 105
+level length: 28sec
+total above ~threshold: 17sec
+above threshold: 60%
+level: 6
+level start: 135
+level length: 61sec
+total above ~threshold: 36sec
+above threshold: 59%
+level: 7
+level start: 196
+level length: 125sec
+total above ~threshold: 23sec
+above threshold: 18%
+level: 8
+level start: 318
+level length: 253sec
+total above ~threshold: 39sec
+above threshold: 15%
+level: 9
+level start: 570
+level length: 185sec
+total above ~threshold: 37sec
+above threshold: 20%
+level: 10
+level start: 755
+level length: 148sec
+total above ~threshold: 11sec
+above threshold: 7%
+level: 11
+level start: 902
+level length: 147sec
+total above ~threshold: 19sec
+above threshold: 12%
+level: 12
+level start: 1048
+level length: 196sec
+total above ~threshold: 50sec
+above threshold: 25%
+level: 13
+level start: 1243
+level length: 197sec
+total above ~threshold: 33sec
+above threshold: 16%
+level: 14
+level start: 1434
+level length: 397sec
+total above ~threshold: 55sec
+above threshold: 13%
+-> a Plotter

@@ -1,0 +1,65 @@
+b1: https://youtu.be/uYlZSyJlb3Q
+// nfth: 2uV
+// first few levels too short, so the function below messes up the level numbers;
+
+level: 0
+level start: 104
+level length: 1sec
+total above ~threshold: 1sec
+above threshold: 100%
+level: 2
+level start: 104
+level length: 2sec
+total above ~threshold: 2sec
+above threshold: 100%
+level: 4
+level start: 109
+level length: 2sec
+total above ~threshold: 1sec
+above threshold: 50%
+level: 6
+level start: 114
+level length: 21sec
+total above ~threshold: 18sec
+above threshold: 85%
+level: 7
+level start: 137
+level length: 36sec
+total above ~threshold: 12sec
+above threshold: 33%
+level: 8
+level start: 174
+level length: 2sec
+total above ~threshold: 2sec
+above threshold: 100%
+level: 9
+level start: 177
+level length: 96sec
+total above ~threshold: 76sec
+above threshold: 79%
+level: 10
+level start: 275
+level length: 16sec
+total above ~threshold: 14sec
+above threshold: 87%
+level: 11
+level start: 294
+level length: 35sec
+total above ~threshold: 33sec
+above threshold: 94%
+level: 12
+level start: 331
+level length: 66sec
+total above ~threshold: 64sec
+above threshold: 96%
+level: 13
+level start: 398
+level length: 76sec
+total above ~threshold: 52sec
+above threshold: 68%
+level: 15
+level start: 1141
+level length: 720sec
+total above ~threshold: 370sec
+above threshold: 51%
+-> a Plotter
