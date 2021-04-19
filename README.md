@@ -1,6 +1,6 @@
 # Supporting Material for Neurofeedback Sessions
 
-Neurofeddback Sessions is project testing BCMI-2 with two participants. 
+Neurofeddback Sessions is a project testing BCMI-2 with two participants. 
 
 The commentary of this project is currently submitted as part of my doctoral thesis.
 
