@@ -1,5 +1,4 @@
 # Appendix for Neurofeedback Sessions Project
-
 This repository contains information for my Neurofeedback Sessions project testing auditory entrainment and neurofeedback in my doctoral research.
 
 This folder contains: 
@@ -20,3 +19,5 @@ https://bcmi.khofstadter.info/neuromeditation-sessions/
 
 More information about the research:
 https://bcmi.khofstadter.info/
+
+The participants gave consent for their data to be public. Their raw EEG is not public.
