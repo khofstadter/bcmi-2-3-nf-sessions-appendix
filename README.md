@@ -1,4 +1,4 @@
-# Supporting Material for Neurofeedback Sessions
+# Appendix for Neurofeedback Sessions Project
 
 This repository contains information for my Neurofeedback Sessions project testing auditory entrainment and neurofeedback in my doctoral research.
 
